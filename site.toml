@@ -1,0 +1,15 @@
+# Change these lines to make the site yours, then run: python build.py
+theme_version = "1.0.0"
+name = "Your Name"
+url = "https://ahmadammar.github.io/academic-site-template"
+affiliation = "Your department, your university"
+
+nav = [
+  {key = "about", label = "About", href = "index.html"},
+  {key = "work", label = "Work", href = "work.html"},
+  {key = "cv", label = "CV", href = "cv.html"},
+]
+social = [
+  {label = "Email", icon = "mail", href = "mailto:you@example.org"},
+  {label = "GitHub", icon = "github", href = "https://github.com/"},
+]
